@@ -3,3 +3,12 @@
 
 # Ada Library Information
 *.ali
+
+# dropbox folders
+./data/raw
+./data/output
+./analysis/code
+./analysis/input
+./analysis/output
+./draft
+./slides
